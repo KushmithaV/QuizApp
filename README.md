@@ -1,4 +1,4 @@
-# 📝 Online Quiz App (Java Console Project)
+# QuizApp
 
 ## 📌 Overview
 This is a **console-based Quiz Application** built in **Java** as part of the **Java Developer Internship (Task 8)**.  
