@@ -23,28 +23,15 @@ The program asks multiple-choice questions, takes user input, checks answers, an
 
 ---
 
-## 📂 Project Structure
-QuizApp/
-├── src/
-│ └── QuizApp.java # Main Java class
-└── README.md # Project documentation
-
-
----
-
 ## ▶️ How to Run
 
-### 1. Clone the Repository
-```sh
-git clone https://github.com/your-username/QuizApp.git
-cd QuizApp
-
-
-## 2. Compile
-```sh
+## 🔹 Compile
 javac src/QuizApp.java -d bin
 
-### 3. Run
-```sh
+
+## 🔹 Run
 java -cp bin QuizApp
+
+
+
 
