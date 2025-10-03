@@ -25,17 +25,14 @@ The program asks multiple-choice questions, takes user input, checks answers, an
 
 ## ▶️ How to Run
 
-### 1. Clone the Repository
-```sh
+## 🔹Clone the Repository
 git clone https://github.com/your-username/QuizApp.git
 cd QuizApp
 
----
 
 ## 🔹 Compile
 javac src/QuizApp.java -d bin
 
----
 
 ## 🔹 Run
 java -cp bin QuizApp
