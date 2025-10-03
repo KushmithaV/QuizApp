@@ -39,7 +39,8 @@ QuizApp/
 git clone https://github.com/your-username/QuizApp.git
 cd QuizApp
 
-### 2. Compile
+
+## 2. Compile
 ```sh
 javac src/QuizApp.java -d bin
 
